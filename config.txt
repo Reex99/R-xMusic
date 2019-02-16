@@ -1,0 +1,6 @@
+owner=352222161559093269
+prefix=*-
+game=Thé Empere X Goood*
+stayinchannel=true
+songinstatus=false
+token=NTQ2MjU3NzYwOTM4MDk4NzEw.D0lmCw.GWRQFB6tUXxW6KaYAWMZyuVt5I0
